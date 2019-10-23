@@ -11,3 +11,7 @@
 *4.(选做, 高玩请务必试一试)创建项目, 制作绿荫首页, 首页展示markdown文档, 展示图片那种(请自由发挥)
 
 5.所有保存的文件, 发到[仓库](https://github.com/njtechgreenstudio/vue-class-first.git)托管
+
+## 初始项目运行结果
+
+![初始项目](./assets/初始项目.png)
